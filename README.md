@@ -5,9 +5,9 @@
 **<h1>REGISTER</h1>**
 [klik di sini](https://onmi.io/?invite_code=QXxTlGWKDVWW)
 
-> <br git clone https://github.com/xF346x/oioi />
-> <br cd oioi />
-> <br php oyo.php />
+<br> git clone https://github.com/xF346x/oioi </>
+<br> cd oioi </>
+<br> php oyo.php </>
 
 
 
